@@ -1,0 +1,4 @@
+input engine #mantığını çözdük zaman kısmı kaldı
+render engine #sprites filan öğrenirsek belki bişeyler çıkabilir
+fizik engine #bunun zaten amk normal yapamadık
+sound engine #playlist kütüphanwesinden bişeyler çıkabilir
